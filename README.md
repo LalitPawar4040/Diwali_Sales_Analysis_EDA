@@ -35,7 +35,7 @@ This project is a **data analysis case study** based on Diwali sales data. The g
 
 ## 📊 Key Insights
 
-- Most purchases were made by **young individuals aged 26–35**.
+- Most purchases were made by **Married Women age 26–35**.
 - **FeMales** contributed more to overall spending than males.
 - **States like Maharashtra and Uttar Pradesh** had the highest number of transactions.
 - **Product categories like Food and Clothing** were top-selling.
