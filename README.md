@@ -63,5 +63,4 @@ This project demonstrates how **data analysis can help businesses**:
 
 ---
 
-## 📁 Project Structure
 
