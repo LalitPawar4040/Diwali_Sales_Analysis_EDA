@@ -42,16 +42,6 @@ This project is a **data analysis case study** based on Diwali sales data. The g
 
 ---
 
-## 📷 Sample Visualizations
-
-> *(Insert screenshots of graphs such as bar charts, pie charts, histograms here)*  
-> For example:
-- Spending distribution by gender
-- Age-wise spending analysis
-- Top 10 product categories by revenue
-- Sales by state
-
----
 
 ## 📦 Conclusion
 
